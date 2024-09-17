@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "spl-fluentresults-caching-value-lost", "spl-fluentresults-caching-value-lost.csproj", "{CA6F1E53-F0B1-459A-8E8D-3107DB6A788E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6F1E53-F0B1-459A-8E8D-3107DB6A788E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6F1E53-F0B1-459A-8E8D-3107DB6A788E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6F1E53-F0B1-459A-8E8D-3107DB6A788E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6F1E53-F0B1-459A-8E8D-3107DB6A788E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E276435-8D94-46B6-A187-9E39142A3D58}
+	EndGlobalSection
+EndGlobal
